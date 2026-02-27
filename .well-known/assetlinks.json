@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.goldie92.twa",
+      "sha256_cert_fingerprints": [
+        "14:E4:05:DB:8C:6A:D4:F3:D0:AF:AF:1F:A0:24:C6:E8:97:2A:98:63:DC:A2:51:EB:C4:74:7C:08:2E:46:E3:7C"
+      ]
+    }
+  }
+]
